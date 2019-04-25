@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/webrtc/samples.svg?branch=gh-pages)](https://travis-ci.org/webrtc/samples/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcococherry%2Fsamples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcococherry%2Fsamples?ref=badge_shield)
 
 # WebRTC code samples #
 
@@ -99,3 +100,7 @@ Head over to [test/README.md](https://github.com/webrtc/samples/blob/gh-pages/te
 [AppRTC video chat client](https://apprtc.appspot.com/) powered by Google App Engine
 
 [AppRTC URL parameters](https://apprtc.appspot.com/params.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcococherry%2Fsamples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcococherry%2Fsamples?ref=badge_large)
